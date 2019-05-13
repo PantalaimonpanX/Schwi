@@ -9,6 +9,7 @@ This bot will be using the [Discord.NET](https://github.com/discord-net/Discord.
 - [x] Register Bot Account
 - [ ] Connect to server
 - [ ] Random number commands
+- [ ] Permanent hosting solution
 - [ ] Recommend a random game to play
 - [ ] MUSIC?
 - [ ] Catgirls + Foxgirls?
